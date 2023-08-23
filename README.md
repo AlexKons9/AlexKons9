@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since forever....<br>📚 I'm currently learning Vue & Js....</p>
+<p align="left">✨ Creating bugs since forever....<br>📚 I'm currently learning C# in more depth....</p>
 
 ###
 
